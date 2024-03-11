@@ -1,5 +1,5 @@
 flask
-pickle
+pickle-mixin
 numpy
 mlxtend
 xgboost
