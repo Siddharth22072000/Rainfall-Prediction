@@ -1,3 +1,4 @@
+'''
 from flask import Flask, jsonify, request
 import  pickle
 import numpy as np
@@ -22,3 +23,4 @@ def predict():
     return jsonify(str(result))
 if __name__ == '__main__':
     app.run(debug=True)
+    '''
